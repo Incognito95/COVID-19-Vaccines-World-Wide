@@ -2,7 +2,7 @@
 Data is collected daily from <a href="https://ourworldindata.org/" target="_blank">Our World in Data</a> GitHub repository for covid-19, merged and uploaded.
 
 ### Content
-<br>The data contains the following information:
+The data contains the following information:
 * Country- this is the country for which the vaccination information is provided;
 * Country ISO Code - ISO code for the country;
 * Date - date for the data entry; for some of the dates we have only the daily vaccinations, for others, only the (cumulative) total;
